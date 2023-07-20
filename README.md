@@ -2,10 +2,10 @@
 
 1st compile the main.java file 
 using 
-javac Main.java   command
+# javac Main.java   command
 
 then
-run the Main.java 
+# run the Main.java 
 
 using Java Main.java
 
