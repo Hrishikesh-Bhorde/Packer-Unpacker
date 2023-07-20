@@ -2,12 +2,13 @@
 
 1st compile the main.java file 
 using 
-# javac Main.java   command
+# javac Main.java
 
 then
-# run the Main.java 
+run the Main.java 
 
-using Java Main.java
+using 
+# java Main.java
 
 ![imageOne](./Screenshots/1.png)
 ![imageOne](./Screenshots/2.png)
