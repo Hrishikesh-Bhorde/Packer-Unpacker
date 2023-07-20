@@ -9,5 +9,7 @@ then
 
 using Java Main.java
 
-![imageOne](./Screenshots/1.jpeg)
+![imageOne](./Screenshots/1.png)
+![imageOne](./Screenshots/2.png)
+![imageOne](./Screenshots/3.png)
 
